@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 2.54
+          "drill": 0.5,
+          "height": 0.85,
+          "width": 0.85
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -59,14 +59,6 @@
         }
       ],
       "drc_exclusions": [
-        [
-          "clearance|138400000|111858827|24b08e83-bee6-46a3-bb83-7bbd036c8bde|d3218da4-d2bb-4176-9fc2-bdbeaf905e58",
-          ""
-        ],
-        [
-          "clearance|138400000|112933827|d3218da4-d2bb-4176-9fc2-bdbeaf905e58|a402fa43-2e37-478f-9b31-0852ba2de61d",
-          ""
-        ],
         [
           "silk_edge_clearance|143500000|118500000|58cea657-2478-4436-84b8-f80959ba5037|5d8f8ba4-9fed-4905-8dc9-3c816ed5fa38",
           ""
@@ -560,7 +552,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerber-20250706/",
+      "plot": "gerber/gerber-20250706/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
